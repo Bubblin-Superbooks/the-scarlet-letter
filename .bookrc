@@ -1,6 +1,7 @@
 {
-  "name": "The Scarlet Letter",
+  "name": "The Scarlett Letter",
   "type": "novel",
+  "status": "published",
   "has_page_numbers": true,
   "mode": {
     "HTML": "html",
@@ -11,5 +12,12 @@
   "asset_url": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets",
   "source_url": "http://www.gutenberg.org/cache/epub/25344/pg25344.txt",
   "basename": "pg25344",
-  "start_page": "9"
+  "start_page": "9",
+  "cover": {
+    "punchline": "A \“naughty baggage.\”",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  }
 }
