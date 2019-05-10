@@ -1,5 +1,5 @@
 {
-  "name": "The Scarlett Letter",
+  "name": "The Scarlet Letter",
   "type": "novel",
   "status": "published",
   "has_page_numbers": true,
@@ -14,10 +14,12 @@
   "basename": "pg25344",
   "start_page": "9",
   "cover": {
-    "punchline": "A \“naughty baggage.\”",
+    "punchline": "A naughty baggage!",
     "toc": "",
     "author_detail": "",
     "colophon": "",
     "synopsis": ""
-  }
+  },
+  "book_id": 805,
+  "book_url": "http://bubblin.io/book/the-scarlett-letter-by-nathaniel-hawthorne"
 }
