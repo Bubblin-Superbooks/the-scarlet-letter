@@ -1,0 +1,8 @@
+.bottom {
+	position: absolute;
+	bottom: 10vw;
+	font-size: 60%;
+	text-align: center;
+	margin: 0 auto;
+	width: 80vw;
+}

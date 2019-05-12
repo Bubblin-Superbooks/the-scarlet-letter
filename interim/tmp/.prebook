@@ -1,5 +1,9 @@
 [
   {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_104.jpg"
+  },
+  {
     "tag": "h3",
     "innerHtml": "Preface"
   },
@@ -16,8 +20,16 @@
     "innerHtml": "The author is constrained, therefore, to republish his introductory sketch without the change of a word."
   },
   {
+    "tag": "pre",
+    "innerHtml": "SALEM, March 30, 1850."
+  },
+  {
     "tag": "h2",
     "innerHtml": "The Custom-house."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
@@ -264,32 +276,24 @@
     "innerHtml": "It may be, however,—O, transporting and triumphant thought!—that the great-grandchildren of the present race may sometimes think kindly of the scribbler of bygone days, when the antiquary of days to come, among the sites memorable in the town's history, shall point out the locality of THE TOWN PUMP!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Prison Door]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration: Vignette,—Wild Rose]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "The Scarlet Letter."
   },
   {
-    "tag": "h3",
+    "tag": "h2",
     "innerHtml": "I."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
     "innerHtml": "The Prison-door."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -304,24 +308,24 @@
     "innerHtml": "This rose-bush, by a strange chance, has been kept alive in history; but whether it had merely survived out of the stern old wilderness, so long after the fall of the gigantic pines and oaks that originally overshadowed it,—or whether, as there is fair authority for believing, it had sprung up under the footsteps of the sainted Ann Hutchinson, as she entered the prison-door,—we shall not take upon us to determine. Finding it so directly on the threshold of our narrative, which is now about to issue from that inauspicious portal, we could hardly do otherwise than pluck one of its flowers, and present it to the reader. It may serve, let us hope, to symbolize some sweet moral blossom, that may be found along the track, or relieve the darkening close of a tale of human frailty and sorrow."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
   },
   {
     "tag": "h2",
     "innerHtml": "Ii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Market-place."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_vii.jpg"
   },
   {
     "tag": "p",
@@ -348,8 +352,8 @@
     "innerHtml": "\"Ah, but,\" interposed, more softly, a young wife, holding a child by the hand, \"let her cover the mark as she will, the pang of it will be always in her heart.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Gossips]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_048.jpg"
   },
   {
     "tag": "p",
@@ -416,8 +420,8 @@
     "innerHtml": "Be that as it might, the scaffold of the pillory was a point of view that revealed to Hester Prynne the entire track along which she had been treading, since her happy infancy. Standing on that miserable eminence, she saw again her native village, in Old England, and her paternal home; a decayed house of gray stone, with a poverty-stricken aspect, but retaining a half-obliterated shield of arms over the portal, in token of antique gentility. She saw her father's face, with its bald brow, and reverend white beard, that flowed over the old-fashioned Elizabethan ruff; her mother's, too, with the look of heedful and anxious love which it always wore in her remembrance, and which, even since her death, had so often laid the impediment of a gentle remonstrance in her daughter's pathway. She saw her own face, glowing with girlish beauty, and illuminating all the interior of the dusky mirror in which she had been wont to gaze at it. There she beheld another countenance, of a man well stricken in years, a pale, thin, scholar-like visage, with eyes dim and bleared by the lamplight that had served them to pore over many ponderous books. Yet those same bleared optics had a strange, penetrating power, when it was their owner's purpose to read the human soul. This figure of the study and the cloister, as Hester Prynne's womanly fancy failed not to recall, was slightly deformed, with the left shoulder a trifle higher than the right. Next rose before her, in memory's picture-gallery, the intricate and narrow thoroughfares, the tall, gray houses, the huge cathedrals, and the public edifices, ancient in date and quaint in architecture, of a Continental city; where a new life had awaited her, still in connection with the misshapen scholar; a new life, but feeding itself on time-worn materials, like a tuft of green moss on a crumbling wall. Lastly, in lieu of these shifting scenes, came back the rude market-place of the Puritan settlement, with all the towns-people assembled and levelling their stern regards at Hester Prynne,—yes, at herself,—who stood on the scaffold of the pillory, an infant on her arm, and the letter A, in scarlet, fantastically embroidered with gold-thread, upon her bosom!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"Standing on the Miserable Eminence\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_053.jpg"
   },
   {
     "tag": "p",
@@ -428,16 +432,20 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Iii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Recognition."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_vi.jpg"
   },
   {
     "tag": "p",
@@ -572,28 +580,28 @@
     "innerHtml": "\"She will not speak!\" murmured Mr. Dimmesdale, who, leaning over the balcony, with his hand upon his heart, had awaited the result of his appeal. He now drew back, with a long respiration. \"Wondrous strength and generosity of a woman's heart! She will not speak!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"She was led back to Prison\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_103.jpg"
   },
   {
     "tag": "p",
     "innerHtml": "Discerning the impracticable state of the poor culprit's mind, the elder clergyman, who had carefully prepared himself for the occasion, addressed to the multitude a discourse on sin, in all its branches, but with continual reference to the ignominious letter. So forcibly did he dwell upon this symbol, for the hour or more during which his periods were rolling over the people's heads, that it assumed new terrors in their imagination, and seemed to derive its scarlet hue from the flames of the infernal pit. Hester Prynne, meanwhile, kept her place upon the pedestal of shame, with glazed eyes, and an air of weary indifference. She had borne, that morning, all that nature could endure; and as her temperament was not of the order that escapes from too intense suffering by a swoon, her spirit could only shelter itself beneath a stony crust of insensibility, while the faculties of animal life remained entire. In this state, the voice of the preacher thundered remorselessly, but unavailingly, upon her ears. The infant, during the latter portion of her ordeal, pierced the air with its wailings and screams; she strove to hush it, mechanically, but seemed scarcely to sympathize with its trouble. With the same hard demeanor, she was led back to prison, and vanished from the public gaze within its iron-clamped portal. It was whispered, by those who peered after her, that the scarlet letter threw a lurid gleam along the dark passage-way of the interior."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Iv."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Interview."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_vii.jpg"
   },
   {
     "tag": "p",
@@ -700,8 +708,8 @@
     "innerHtml": "\"One thing, thou that wast my wife, I would enjoin upon thee,\" continued the scholar. \"Thou hast kept the secret of thy paramour. Keep, likewise, mine! There are none in this land that know me. Breathe not, to any human soul, that thou didst ever call me husband! Here, on this wild outskirt of the earth, I shall pitch my tent; for, elsewhere a wanderer, and isolated from human interests, I find here a woman, a man, a child, amongst whom and myself there exist the closest ligaments. No matter whether of love or hate; no matter whether of right or wrong! Thou and thine, Hester Prynne, belong to me. My home is where thou art, and where he is. But betray me not!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"The Eyes of the wrinkled Scholar glowed\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_053.jpg"
   },
   {
     "tag": "p",
@@ -736,16 +744,20 @@
     "innerHtml": "\"Not thy soul,\" he answered, with another smile. \"No, not thine!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "V."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "Hester At Her Needle."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_v.jpg"
   },
   {
     "tag": "p",
@@ -760,8 +772,8 @@
     "innerHtml": "It might be, too,—doubtless it was so, although she hid the secret from herself, and grew pale whenever it struggled out of her heart, like a serpent from its hole,—it might be that another feeling kept her within the scene and pathway that had been so fatal. There dwelt, there trode the feet of one with whom she deemed herself connected in a union, that, unrecognized on earth, would bring them together before the bar of final judgment, and make that their marriage-altar, for a joint futurity of endless retribution. Over and over again, the tempter of souls had thrust this idea upon Hester's contemplation, and laughed at the passionate and desperate joy with which she seized, and then strove to cast it from her. She barely looked the idea in the face, and hastened to bar it in its dungeon. What she compelled herself to believe—what, finally, she reasoned upon, as her motive for continuing a resident of New England—was half a truth, and half a self-delusion. Here, she said to herself, had been the scene of her guilt, and here should be the scene of her earthly punishment; and so, perchance, the torture of her daily shame would at length purge her soul, and work out another purity than that which she had lost; more saint-like, because the result of martyrdom."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Lonesome Dwelling]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_051.jpg"
   },
   {
     "tag": "p",
@@ -788,8 +800,8 @@
     "innerHtml": "Continually, and in a thousand other ways, did she feel the innumerable throbs of anguish that had been so cunningly contrived for her by the undying, the ever-active sentence of the Puritan tribunal. Clergymen paused in the street to address words of exhortation, that brought a crowd, with its mingled grin and frown, around the poor, sinful woman. If she entered a church, trusting to share the Sabbath smile of the Universal Father, it was often her mishap to find herself the text of the discourse. She grew to have a dread of children; for they had imbibed from their parents a vague idea of something horrible in this dreary woman, gliding silently through the town, with never any companion but one only child. Therefore, first allowing her to pass, they pursued her at a distance with shrill cries, and the utterance of a word that had no distinct purport to their own minds, but was none the less terrible to her, as proceeding from lips that babbled it unconsciously. It seemed to argue so wide a diffusion of her shame, that all nature knew of it; it could have caused her no deeper pang, had the leaves of the trees whispered the dark story among themselves,—had the summer breeze murmured about it,—had the wintry blast shrieked it aloud! Another peculiar torture was felt in the gaze of a new eye. When strangers looked curiously at the scarlet letter,—and none ever failed to do so,—they branded it afresh into Hester's soul; so that, oftentimes, she could scarcely refrain, yet always did refrain, from covering the symbol with her hand. But then, again, an accustomed eye had likewise its own anguish to inflict. Its cool stare of familiarity was intolerable. From first to last, in short, Hester Prynne had always this dreadful agony in feeling a human eye upon the token; the spot never grew callous; it seemed, on the contrary, to grow more sensitive with daily torture."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Lonely Footsteps]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_103.jpg"
   },
   {
     "tag": "p",
@@ -804,24 +816,20 @@
     "innerHtml": "The vulgar, who, in those dreary old times, were always contributing a grotesque horror to what interested their imaginations, had a story about the scarlet letter which we might readily work up into a terrific legend. They averred, that the symbol was not mere scarlet cloth, tinged in an earthly dye-pot, but was red-hot with infernal fire, and could be seen glowing all alight, whenever Hester Prynne walked abroad in the night-time. And we must needs say, it seared Hester's bosom so deeply, that perhaps there was more truth in the rumor than our modern incredulity may be inclined to admit."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Vi."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
     "innerHtml": "Pearl."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_vii.jpg"
   },
   {
     "tag": "p",
@@ -860,8 +868,8 @@
     "innerHtml": "Gazing at Pearl, Hester Prynne often dropped her work upon her knees, and cried out with an agony which she would fain have hidden, but which made utterance for itself, betwixt speech and a groan,—\"O Father in Heaven,—if Thou art still my Father,—what is this being which I have brought into the world!\" And Pearl, overhearing the ejaculation, or aware, through some more subtile channel, of those throbs of anguish, would turn her vivid and beautiful little face upon her mother, smile with sprite-like intelligence, and resume her play."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: A touch of Pearl's baby-hand]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_103.jpg"
   },
   {
     "tag": "p",
@@ -932,24 +940,20 @@
     "innerHtml": "But Hester could not resolve the query, being herself in a dismal labyrinth of doubt. She remembered—betwixt a smile and a shudder—the talk of the neighboring towns-people; who, seeking vainly elsewhere for the child's paternity, and observing some of her odd attributes, had given out that poor little Pearl was a demon offspring; such as, ever since old Catholic times, had occasionally been seen on earth, through the agency of their mother's sin, and to promote some foul and wicked purpose. Luther, according to the scandal of his monkish enemies, was a brat of that hellish breed; nor was Pearl the only child to whom this inauspicious origin was assigned, among the New England Puritans."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Vii."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
     "innerHtml": "The Governor's Hall."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -1016,8 +1020,8 @@
     "innerHtml": "On the wall hung a row of portraits, representing the forefathers of the Bellingham lineage, some with armor on their breasts, and others with stately ruffs and robes of peace. All were characterized by the sternness and severity which old portraits so invariably put on; as if they were the ghosts, rather than the pictures, of departed worthies, and were gazing with harsh and intolerant criticism at the pursuits and enjoyments of living men."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Governor's Breastplate]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_79.jpg"
   },
   {
     "tag": "p",
@@ -1056,16 +1060,20 @@
     "innerHtml": "In fact, adown the vista of the garden avenue a number of persons were seen approaching towards the house. Pearl, in utter scorn of her mother's attempt to quiet her, gave an eldritch scream, and then became silent; not from any notion of obedience, but because the quick and mobile curiosity of her disposition was excited by the appearance of these new personages."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Viii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Elf-child And The Minister."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_v.jpg"
   },
   {
     "tag": "p",
@@ -1156,8 +1164,8 @@
     "innerHtml": "\"God gave me the child!\" cried she. \"He gave her in requital of all things else, which ye had taken from me. She is my happiness!—she is my torture, none the less! Pearl keeps me here in life! Pearl punishes me too! See ye not, she is the scarlet letter, only capable of being loved, and so endowed with a million-fold the power of retribution for my sin? Ye shall not take her! I will die first!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"Look thou to it! I will not lose the child!\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -1240,20 +1248,20 @@
     "innerHtml": "But here—if we suppose this interview betwixt Mistress Hibbins and Hester Prynne to be authentic, and not a parable—was already an illustration of the young minister's argument against sundering the relation of a fallen mother to the offspring of her frailty. Even thus early had the child saved her from Satan's snare."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Ix."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Leech."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -1300,8 +1308,8 @@
     "innerHtml": "\"Good men ever interpret themselves too meanly,\" said the physician."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Minister and Leech]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_230.jpg"
   },
   {
     "tag": "p",
@@ -1336,20 +1344,20 @@
     "innerHtml": "Alas! to judge from the gloom and terror in the depths of the poor minister's eyes, the battle was a sore one and the victory anything but secure."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "X."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Leech And His Patient."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -1504,8 +1512,8 @@
     "innerHtml": "\"It is as well to have made this step,\" said Roger Chillingworth to himself, looking after the minister with a grave smile. \"There is nothing lost. We shall be friends again anon. But see, now, how passion takes hold upon this man, and hurrieth him out of himself! As with one passion, so with another! He hath done a wild thing erenow, this pious Master Dimmesdale, in the hot passion of his heart!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Leech and his Patient]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_103.jpg"
   },
   {
     "tag": "p",
@@ -1536,20 +1544,20 @@
     "innerHtml": "But what distinguished the physician's ecstasy from Satan's was the trait of wonder in it!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xi."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Interior Of A Heart."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -1568,8 +1576,8 @@
     "innerHtml": "While thus suffering under bodily disease, and gnawed and tortured by some black trouble of the soul, and given over to the machinations of his deadliest enemy, the Reverend Mr. Dimmesdale had achieved a brilliant popularity in his sacred office. He won it, indeed, in great part, by his sorrows. His intellectual gifts, his moral perceptions, his power of experiencing and communicating emotion, were kept in a state of preternatural activity by the prick and anguish of his daily life. His fame, though still on its upward slope, already overshadowed the soberer reputations of his fellow-clergymen, eminent as several of them were. There were scholars among them, who had spent more years in acquiring abstruse lore, connected with the divine profession, than Mr. Dimmesdale had lived; and who might well, therefore, be more profoundly versed in such solid and valuable attainments than their youthful brother. There were men, too, of a sturdier texture of mind than his, and endowed with a far greater share of shrewd, hard, iron, or granite understanding; which, duly mingled with a fair proportion of doctrinal ingredient, constitutes a highly respectable, efficacious, and unamiable variety of the clerical species. There were others, again, true saintly fathers, whose faculties had been elaborated by weary toil among their books, and by patient thought, and etherealized, moreover, by spiritual communications with the better world, into which their purity of life had almost introduced these holy personages, with their garments of mortality still clinging to them. All that they lacked was the gift that descended upon the chosen disciples at Pentecost, in tongues of flame; symbolizing, it would seem, not the power of speech in foreign and unknown languages, but that of addressing the whole human brotherhood in the heart's native language. These fathers, otherwise so apostolic, lacked Heaven's last and rarest attestation of their office, the Tongue of Flame. They would have vainly sought—had they ever dreamed of seeking—to express the highest truths through the humblest medium of familiar words and images. Their voices came down, afar and indistinctly, from the upper heights where they habitually dwelt."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Virgins of the Church]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_117.jpg"
   },
   {
     "tag": "p",
@@ -1596,20 +1604,20 @@
     "innerHtml": "On one of those ugly nights, which we have faintly hinted at, but forborne to picture forth, the minister started from his chair. A new thought had struck him. There might be a moment's peace in it. Attiring himself with as much care as if it had been for public worship, and precisely in the same manner, he stole softly down the staircase, undid the door, and issued forth."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Minister's Vigil."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -1728,8 +1736,8 @@
     "innerHtml": "Pearl laughed again."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"They stood in the noon of that strange splendor\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_141.jpg"
   },
   {
     "tag": "p",
@@ -1824,20 +1832,20 @@
     "innerHtml": "\"No,\" answered the minister, \"I had not heard of it.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xiii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "Another View Of Hester."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -1848,8 +1856,8 @@
     "innerHtml": "Hester Prynne did not now occupy precisely the same position in which we beheld her during the earlier periods of her ignominy. Years had come and gone. Pearl was now seven years old. Her mother, with the scarlet letter on her breast, glittering in its fantastic embroidery, had long been a familiar object to the towns-people. As is apt to be the case when a person stands out in any prominence before the community, and, at the same time, interferes neither with public nor individual interests and convenience, a species of general regard had ultimately grown up in reference to Hester Prynne. It is to the credit of human nature, that, except where its selfishness is brought into play, it loves more readily than it hates. Hatred, by a gradual and quiet process, will even be transformed to love, unless the change be impeded by a continually new irritation of the original feeling of hostility. In this matter of Hester Prynne, there was neither irritation nor irksomeness. She never battled with the public, but submitted, uncomplainingly, to its worst usage; she made no claim upon it, in requital for what she suffered; she did not weigh upon its sympathies. Then, also, the blameless purity of her life during all these years in which she had been set apart to infamy, was reckoned largely in her favor. With nothing now to lose, in the sight of mankind, and with no hope, and seemingly no wish, of gaining anything, it could only be a genuine regard for virtue that had brought back the poor wanderer to its paths."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Hester in the House of Mourning]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_192.jpg"
   },
   {
     "tag": "p",
@@ -1892,20 +1900,20 @@
     "innerHtml": "In fine, Hester Prynne resolved to meet her former husband, and do what might be in her power for the rescue of the victim on whom he had so evidently set his gripe. The occasion was not long to seek. One afternoon, walking with Pearl in a retired part of the peninsula, she beheld the old physician, with a basket on one arm, and a staff in the other hand, stooping along the ground, in quest of roots and herbs to concoct his medicines withal."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xiv."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "Hester And The Physician."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -2040,28 +2048,28 @@
     "innerHtml": "He waved his hand, and betook himself again to his employment of gathering herbs."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Mandrake]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xv."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
     "innerHtml": "Hester And Pearl."
   },
   {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
+  },
+  {
     "tag": "p",
     "innerHtml": "So Roger Chillingworth—a deformed old figure, with a face that haunted men's memories longer than they liked—took leave of Hester Prynne, and went stooping away along the earth. He gathered here and there an herb, or grubbed up a root, and put it into the basket on his arm. His gray beard almost touched the ground, as he crept onward. Hester gazed after him a little while, looking with a half-fantastic curiosity to see whether the tender grass of early spring would not be blighted beneath him, and show the wavering track of his footsteps, sere and brown, across its cheerful verdure. She wondered what sort of herbs they were, which the old man was so sedulous to gather. Would not the earth, quickened to an evil purpose by the sympathy of his eye, greet him with poisonous shrubs, of species hitherto unknown, that would start up under his fingers? Or might it suffice him, that every wholesome growth should be converted into something deleterious and malignant at his touch? Did the sun, which shone so brightly everywhere else, really fall upon him? Or was there, as it rather seemed, a circle of ominous shadow moving along with his deformity, whichever way he turned himself? And whither was he now going? Would he not suddenly sink into the earth, leaving a barren and blasted spot, where, in due course of time, would be seen deadly nightshade, dogwood, henbane, and whatever else of vegetable wickedness the climate could produce, all flourishing with hideous luxuriance? Or would he spread bat's wings and flee away, looking so much the uglier, the higher he rose towards heaven?"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"He gathered herbs here and there\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_203.jpg"
   },
   {
     "tag": "p",
@@ -2092,8 +2100,8 @@
     "innerHtml": "\"Pearl! Little Pearl! Where are you?\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Pearl on the Sea-Shore]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_211.jpg"
   },
   {
     "tag": "p",
@@ -2192,20 +2200,20 @@
     "innerHtml": "\"Hold thy tongue, naughty child!\" answered her mother, with an asperity that she had never permitted to herself before. \"Do not tease me; else I shall shut thee into the dark closet!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xvi."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "A Forest Walk."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_vii.jpg"
   },
   {
     "tag": "p",
@@ -2352,20 +2360,20 @@
     "innerHtml": "To Hester's eye, the Reverend Mr. Dimmesdale exhibited no symptom of positive and vivacious suffering, except that, as little Pearl had remarked, he kept his hand over his heart."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xvii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Pastor And His Parishioner."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_v.jpg"
   },
   {
     "tag": "p",
@@ -2468,8 +2476,8 @@
     "innerHtml": "\"O Arthur,\" cried she, \"forgive me! In all things else, I have striven to be true! Truth was the one virtue which I might have held fast, and did hold fast, through all extremity; save when thy good,—thy life,—thy fame,—were put in question! Then I consented to a deception. But a lie is never good, even though death threaten on the other side! Dost thou not see what I would say? That old man!—the physician!—he whom they call Roger Chillingworth!—he was my husband!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"Wilt thou yet forgive me?\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_79.jpg"
   },
   {
     "tag": "p",
@@ -2600,20 +2608,20 @@
     "innerHtml": "Then, all was spoken!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xviii."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "A Flood Of Sunshine."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iii.jpg"
   },
   {
     "tag": "p",
@@ -2660,8 +2668,8 @@
     "innerHtml": "So speaking, she undid the clasp that fastened the scarlet letter, and, taking it from her bosom, threw it to a distance among the withered leaves. The mystic token alighted on the hither verge of the stream. With a hand's breadth farther flight it would have fallen into the water, and have given the little brook another woe to carry onward, besides the unintelligible tale which it still kept murmuring about. But there lay the embroidered letter, glittering like a lost jewel, which some ill-fated wanderer might pick up, and thenceforth be haunted by strange phantoms of guilt, sinkings of the heart, and unaccountable misfortune."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: A Gleam of Sunshine]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_viii.jpg"
   },
   {
     "tag": "p",
@@ -2708,16 +2716,20 @@
     "innerHtml": "Slowly; for she saw the clergyman."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xix."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Child At The Brook-side."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -2764,8 +2776,8 @@
     "innerHtml": "\"Come, dearest child!\" said Hester, encouragingly, and stretching out both her arms. \"How slow thou art! When hast thou been so sluggish before now? Here is a friend of mine, who must be thy friend also. Thou wilt have twice as much love, henceforward, as thy mother alone could give thee! Leap across the brook, and come to us. Thou canst leap like a young deer!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: The Child at the Brook-Side]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_118.jpg"
   },
   {
     "tag": "p",
@@ -2876,20 +2888,20 @@
     "innerHtml": "And now this fateful interview had come to a close. The dell was to be left a solitude among its dark, old trees, which, with their multitudinous tongues, would whisper long of what had passed there, and no mortal be the wiser. And the melancholy brook would add this other tale to the mystery with which its little heart was already overburdened, and whereof it still kept up a murmuring babble, with not a whit more cheerfulness of tone than for ages heretofore."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xx."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The Minister In A Maze."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -3004,16 +3016,20 @@
     "innerHtml": "Left alone, the minister summoned a servant of the house, and requested food, which, being set before him, he ate with ravenous appetite. Then, flinging the already written pages of the Election Sermon into the fire, he forthwith began another, which he wrote with such an impulsive flow of thought and emotion, that he fancied himself inspired; and only wondered that Heaven should see fit to transmit the grand and solemn music of its oracles through so foul an organ-pipe as he. However, leaving that mystery to solve itself, or go unsolved forever, he drove his task onward, with earnest haste and ecstasy. Thus the night fled away, as if it were a winged steed, and he careering on it; morning came, and peeped, blushing, through the curtains; and at last sunrise threw a golden beam into the study and laid it right across the minister's bedazzled eyes. There he was, with the pen still between his fingers, and a vast, immeasurable tract of written space behind him!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xxi."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "The New England Holiday."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_v.jpg"
   },
   {
     "tag": "p",
@@ -3112,8 +3128,8 @@
     "innerHtml": "\"Why, know you not,\" cried the shipmaster, \"that this physician here—Chillingworth, he calls himself—is minded to try my cabin-fare with you? Ay, ay, you must have known it; for he tells me he is of your party, and a close friend to the gentleman you spoke of,—he that is in peril from these sour old Puritan rulers!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Chillingworth,—\"Smile with a sinister meaning\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_ii.jpg"
   },
   {
     "tag": "p",
@@ -3124,24 +3140,28 @@
     "innerHtml": "Nothing further passed between the mariner and Hester Prynne. But, at that instant, she beheld old Roger Chillingworth himself, standing in the remotest corner of the market-place, and smiling on her; a smile which—across the wide and bustling square, and through all the talk and laughter, and various thoughts, moods, and interests of the crowd—conveyed secret and fearful meaning."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xxii."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
     "innerHtml": "The Procession."
   },
   {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
+  },
+  {
     "tag": "p",
     "innerHtml": "Before Hester Prynne could call together her thoughts, and consider what was practicable to be done in this new and startling aspect of affairs, the sound of military music was heard approaching along a contiguous street. It denoted the advance of the procession of magistrates and citizens, on its way towards the meeting-house; where, in compliance with a custom thus early established, and ever since observed, the Reverend Mr. Dimmesdale was to deliver an Election Sermon."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: New England Worthies]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_323.jpg"
   },
   {
     "tag": "p",
@@ -3260,16 +3280,12 @@
     "innerHtml": "While Hester stood in that magic circle of ignominy, where the cunning cruelty of her sentence seemed to have fixed her forever, the admirable preacher was looking down from the sacred pulpit upon an audience whose very inmost spirits had yielded to his control. The sainted minister in the church! The woman of the scarlet letter in the market-place! What imagination would have been irreverent enough to surmise that the same scorching stigma was on them both!"
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xxiii."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
@@ -3384,8 +3400,8 @@
     "innerHtml": "\"It was on him!\" he continued, with a kind of fierceness; so determined was he to speak out the whole. \"God's eye beheld it! The angels were forever pointing at it! The Devil knew it well, and fretted it continually with the touch of his burning finger! But he hid it cunningly from men, and walked among you with the mien of a spirit, mournful, because so pure in a sinful world!—and sad, because he missed his heavenly kindred! Now, at the death-hour, he stands up before you! He bids you look again at Hester's scarlet letter! He tells you, that, with all its mysterious horror, it is but the shadow of what he bears on his own breast, and that even this, his own red stigma, is no more than the type of what has seared his inmost heart! Stand any here that question God's judgment on a sinner? Behold! Behold a dreadful witness of it!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: \"Shall we not meet again?\"]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_323.jpg"
   },
   {
     "tag": "p",
@@ -3428,20 +3444,20 @@
     "innerHtml": "That final word came forth with the minister's expiring breath. The multitude, silent till then, broke out in a strange, deep voice of awe and wonder, which could not as yet find utterance, save in this murmur that rolled so heavily after the departed spirit."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "[Illustration]"
-  },
-  {
     "tag": "h2",
     "innerHtml": "Xxiv."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h3",
     "innerHtml": "Conclusion."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/ornament_iv.jpg"
   },
   {
     "tag": "p",
@@ -3476,8 +3492,8 @@
     "innerHtml": "On the threshold she paused,—turned partly round,—for, perchance, the idea of entering all alone, and all so changed, the home of so intense a former life, was more dreary and desolate than even she could bear. But her hesitation was only for an instant, though long enough to display a scarlet letter on her breast."
   },
   {
-    "tag": "p",
-    "innerHtml": "[Illustration: Hester's Return]"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-scarlet-letter/master/assets/images/illu_222.jpg"
   },
   {
     "tag": "p",
@@ -3501,11 +3517,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[Illustration]"
+    "innerHtml": "Cambridge: Electrotyped and Printed by Welch, Bigelow, & Co."
   },
   {
-    "tag": "p",
-    "innerHtml": "Cambridge: Electrotyped and Printed by Welch, Bigelow, & Co."
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",

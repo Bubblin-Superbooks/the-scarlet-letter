@@ -170,7 +170,7 @@ hr.section::after {
 }
 
 hr.section::before {
-  content: "❉";
+  content: "❧";
   color: black;
 }
 
